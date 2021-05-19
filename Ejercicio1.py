@@ -1,5 +1,7 @@
 #Cree un programa que sea capaz de escribir los números del 1 al 100
-
+#Si un número es múltiplo de 3, se escribe “mare” en su lugar.
+#Si el número es múltiplo de 5, se escribe “igua”.
+#Si el número es múltiplo de ambos se escribe “mareigua”.
 numeros= []
 
 for i in range(1,101):
